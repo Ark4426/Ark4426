@@ -54,7 +54,7 @@ With strong expertise in **Python**, **TensorFlow**, **PyTorch**, and **Data Ana
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/ashishkhanapure/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -65,18 +65,4 @@ With strong expertise in **Python**, **TensorFlow**, **PyTorch**, and **Data Ana
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yourinstagram/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ark4426&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/Ark4426">Ashish Khanapure</a></i>
-</p>

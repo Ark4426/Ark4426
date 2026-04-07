@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ashish Khanapure
 
 ### AI & Robotics Enthusiast | Data Science | Turning Complex Data into Actionable Insights
-MSc Artificial Intelligence & Data Science | Gisma University of Applied Sciences, Berlin 🇩🇪
+MSc AI Student in Berlin | BSBI, Berlin 🇩🇪
 
 ---
 

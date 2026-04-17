@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ashish Khanapure
 
-### AI & Robotics Enthusiast | Data Science | Turning Complex Data into Actionable Insights
-MSc AI Student in Berlin | BSBI, Berlin 🇩🇪
+### Robotics Software Engineer | Deep RL · Vision-LiDAR SLAM · ROS2 · YOLOv11
+MSc AI (Robotics) @ BSBI Berlin · Graduating Aug 2026
 
 ---
 

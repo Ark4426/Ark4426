@@ -62,7 +62,7 @@ With strong expertise in **Python**, **TensorFlow**, **PyTorch**, and **Data Ana
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://yourportfolio.com">
+  <a href="[https://yourportfolio.com](https://ark4426.github.io/Portfolio/)">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
